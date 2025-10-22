@@ -24,7 +24,7 @@ This project implements a single-cycle MIPS processor architecture (32-bit subse
 
 The project is built around the classic single-cycle MIPS datapath architecture. This diagram illustrates how the core components are interconnected and how data flows during execution:
 
-![MIPS Single-Cycle Diagram](schema_procesor/mips.png)
+![MIPS Single-Cycle Diagram](schema_procesor/mips32.png)
 
 ## Test and Simulation
 
