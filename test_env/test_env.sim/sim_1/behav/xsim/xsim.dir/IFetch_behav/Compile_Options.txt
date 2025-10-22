@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "IFetch_behav" "xil_defaultlib.IFetch" -log "elaborate.log" 
