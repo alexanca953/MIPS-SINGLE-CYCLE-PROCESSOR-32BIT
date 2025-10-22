@@ -1,0 +1,13 @@
+# Forțăm limbajul
+*.vhd linguist-language=VHDL
+*.asm linguist-language=Assembly
+
+# Ignorăm fișierele care apar ca JavaScript, Tcl, C, Shell, Batch
+*.js linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
+*.tcl linguist-vendored
+*.sh linguist-vendored
+*.bat linguist-vendored
+*.md linguist-vendored
+*.txt linguist-vendored
